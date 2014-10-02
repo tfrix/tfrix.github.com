@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "hellow world"
+title: "hello world"
 description: ""
 category: 
 tags: []
